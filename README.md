@@ -18,7 +18,7 @@ In this project you will build an application that allows for github user and fo
 
 <!-- ![Project Example](project-goals.gif) -->
 
-***Make sure to complete your tasks one at a time and complete test each task before proceding forward.***
+***Make sure to complete your tasks one at a time and complete test each task before proceeding forward.***
 
 ## Instructions
 ### Task 1: Project Set Up
